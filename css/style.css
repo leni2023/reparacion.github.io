@@ -1,8 +1,7 @@
-
 .CamLigero{
     width: 100%;
     height: auto;
-    background-color: #db7236;
+    /* background-color: #e24de7; */
 }
 
 
@@ -22,27 +21,27 @@
 }
 @media (max-width: 2370px) {
     html {
-        font-size: 6.7px;
+        font-size: 6.8px;
     }
 }
 @media (max-width: 2270px) {
     html {
-        font-size: 6.5px;
+        font-size: 6.6px;
     }
 }
 @media (max-width: 2170px) {
     html {
-        font-size: 8px;
+        font-size: 6.4px;
     }
 }
 @media (max-width: 2070px) {
     html {
-        font-size: 8px;
+        font-size: 6.2px;
     }
 }
 @media (max-width: 1970px) {
     html {
-        font-size: 8px;
+        font-size: 6px;
     }
 }
 
@@ -55,32 +54,32 @@
 
 @media (max-width: 1870px) {
     html {
-        font-size: 7px;
+        font-size: 5.8px;
     }
 }
 @media (max-width: 1770px) {
     html {
-        font-size: 7px;
+        font-size: 5.6px;
     }
 }
 @media (max-width: 1670px) {
     html {
-        font-size: 7px;
+        font-size: 5.4px;
     }
 }
 @media (max-width: 1570px) {
     html {
-        font-size: 6px;
+        font-size: 5.2px;
     }
 }
 @media (max-width: 1470px) {
     html {
-        font-size: 6px;
+        font-size: 5px;
     }
 }
 @media (max-width: 1370px) {
     html {
-        font-size: 6px;
+        font-size: 4.8px;
     }
 }
 
@@ -93,17 +92,17 @@
 
 @media (max-width: 1270px) {
     html {
-        font-size: 5px;
+        font-size: 4.6px;
     }
 }
 @media (max-width: 1170px) {
     html {
-        font-size: 5px;
+        font-size: 4.4px;
     }
 }
 @media (max-width: 1070px) {
     html {
-        font-size: 5px;
+        font-size: 4.2px;
     }
 }
 @media (max-width: 970px) {
@@ -113,12 +112,12 @@
 }
 @media (max-width: 870px) {
     html {
-        font-size: 4px;
+        font-size: 3.8px;
     }
 }
 @media (max-width: 770px) {
     html {
-        font-size: 4px;
+        font-size: 3.6px;
     }
 }
 
@@ -131,12 +130,12 @@
 
 @media (max-width: 670px) {
     html {
-        font-size: 3px;
+        font-size: 3.4px;
     }
 }
 @media (max-width: 570px) {
     html {
-        font-size: 3px;
+        font-size: 3.2px;
     }
 }
 @media (max-width: 470px) {
@@ -147,17 +146,17 @@
 }
 @media (max-width: 370px) {
     html {
-        font-size: 2px;
+        font-size: 2.8px;
     }
 }
 @media (max-width: 270px) {
     html {
-        font-size: 2px;
+        font-size: 2.6px;
     }
 }
 @media (max-width: 170px) {
     html {
-        font-size: 2px;
+        font-size: 2.4px;
     }
 }
 
@@ -170,32 +169,32 @@
 
 @media (max-width: 150px) {
     html {
-        font-size: 1.5px;
+        font-size: 2.2px;
     }
 }
 @media (max-width: 130px) {
     html {
-        font-size: 1.5px;
+        font-size: 2px;
     }
 }
 @media (max-width: 110px) {
     html {
-        font-size: 1.5px;
+        font-size: 1.8px;
     }
 }
 @media (max-width: 100px) {
     html {
-        font-size: 1px;
+        font-size: 1.6px;
     }
 }
 @media (max-width: 90px) {
     html {
-        font-size: 1px;
+        font-size: 1.4px;
     }
 }
 @media (max-width: 80px) {
     html {
-        font-size: 1px;
+        font-size: 1.2px;
     }
 }
 
@@ -208,31 +207,31 @@
 
 @media (max-width: 70px) {
     html {
-        font-size: 0.5px;
+        font-size: 1px;
     }
 }
 @media (max-width: 60px) {
     html {
-        font-size: 0.5px;
+        font-size: 0.8px;
     }
 }
 @media (max-width: 50px) {
     html {
-        font-size: 0.5px;
+        font-size: 0.6px;
     }
 }
-@media (max-width: 40px) {
+/* @media (max-width: 40px) {
     html {
-        font-size: 0.1px;
+        font-size: 0.4px;
     }
 }
 @media (max-width: 30px) {
     html {
-        font-size: 0.1px;
+        font-size: 0.2px;
     }
 }
 @media (max-width: 20px) {
     html {
         font-size: 0.1px;
     }
-}
+} */
