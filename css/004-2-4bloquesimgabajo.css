@@ -1,64 +1,69 @@
-.S1seccion-0052{
+.S1seccion-004-2{
+    /* background-color: #48c289; */
     width: 100%;
     height: auto;
-    /* background-color: aqua; */
+
+    /* display: flex; */
+    /* align-items: center;
+    justify-content: center; */
+    color: #000000;
 }
-.container0052{
-    width: 100%;
-    height: auto;
-    /* background-color: #e48a40; */
+.container004-2{
+    /* background-color: #c95beb; */
     max-width: 2200px;
-
-    display: flex;
-    color: #009292;
-    padding: 0 2rem 3rem;
+    height: auto;
     margin: auto;
-}
-.a001-0052{
-    width: 60rem;
-    height: auto;
-    /* background-color: #bf87ec; */
 
-    display: flex;
-}
-.a001-0052 span{
-    font-size: 4rem;
-    font-weight: 700;
-    padding: .1rem 0;
-    text-align: center;
-    margin: 0 auto;
-}
-.a002-0052{
-    height: auto;
-    width: 100%;
-    /* background-color: #505050; */
-
+    padding: 3rem 0;
     display: flex;
     flex-wrap: wrap;
 }
-.a002-0052 li{
-    text-decoration: none;
-    list-style: none;
-    display: inline-block;
-    font-size: 3rem;
-    font-weight: 600;
+.row-004-2 {
+    /* padding: 100px 50px; */
+    width: 50%;
+    height: auto;
+    /* background-color: #a1aa1e; */
+    /* border-top: 10px solid #fff;
+    border-left: 10px solid #fff; */
 
-    /* background-color: #c23a3a; */
-    /* border-radius: 1rem; */
-    border-bottom: .5rem solid #00f7ff;
-
-    margin: auto 15rem auto 0;
-    /* padding: 0.1rem 2rem; */
-
-    cursor: pointer;
+    margin: 0 auto ;
+    /* justify-content: center; */
+    /* display: flex; */
+    padding: 2rem;
+   
 }
-.a002-0052 li div{
-    padding: 0.2rem 2rem;
-    /* background-color: #c23a3a; */
+.col-0-004-2{
     border-radius: 2rem;
-    /* border: .5rem solid #e58e8e; */
-    color: #005564;
+    /* background-color: #ff4545; */
+    padding: 3rem 2rem;
+    height: 100%;
+
+    text-align: center;
+    /* justify-content: center; */
 }
+.col-1-004-2{
+    display: flex;
+    width: 100%;
+    padding: 0 16rem;
+}
+.col-1-004-2 img{
+    width: 100%;
+    height: auto;
+    margin: 0 auto 2rem;
+}
+.col-0-004-2 h3{
+    font-size: 4rem;
+    margin: 0 auto 0.5em;
+}
+.col-0-004-2 p{
+    font-size: 2.5rem;
+    text-align: left;
+}
+/* span {
+    font-size: 2rem;
+    margin: auto;
+    text-align: center;
+} */
 
 
 
@@ -67,32 +72,32 @@
 /* primer grupo */
 
 @media (max-width: 2470px) {
-    .container0052{
+    .container004-2{
         max-width: 2070px;
     }
 }
 @media (max-width: 2370px) {
-    .container0052{
+    .container004-2{
         max-width: 1970px;
     }
 }
 @media (max-width: 2270px) {
-    .container0052{
+    .container004-2{
         max-width: 1870px;
     }
 }
 @media (max-width: 2170px) {
-    .container0052{
+    .container004-2{
         max-width: 1770px;
     }
 }
 @media (max-width: 2070px) {
-    .container0052{
+    .container004-2{
         max-width: 1670px;
     }
 }
 @media (max-width: 1970px) {
-    .container0052{
+    .container004-2{
         max-width: 1570px;
     }
 }
@@ -105,32 +110,32 @@
 /* segundo grupo */
 
 @media (max-width: 1870px) {
-    .container0052{
+    .container004-2{
         max-width: 1570px;
     }
 }
 @media (max-width: 1770px) {
-    .container0052{
+    .container004-2{
         max-width: 1470px;
     }
 }
 @media (max-width: 1670px) {
-    .container0052{
+    .container004-2{
         max-width: 1370px;
     }
 }
 @media (max-width: 1570px) {
-    .container0052{
+    .container004-2{
         max-width: 1370px;
     }
 }
 @media (max-width: 1470px) {
-    .container0052{
+    .container004-2{
         max-width: 1270px;
     }
 }
 @media (max-width: 1370px) {
-    .container0052{
+    .container004-2{
         max-width: 1170px;
     }
 }
@@ -143,43 +148,32 @@
 /* tercer grupo */
 
 @media (max-width: 1270px) {
-
-    .container0052{
+    .container004-2{
         max-width: 1170px;
     }
 }
 @media (max-width: 1170px) {
-
-    .container0052{
+    .container004-2{
         max-width: 1070px;
     }
 }
 @media (max-width: 1070px) {
-
-    .container0052{
+    .container004-2{
         max-width: 970px;
-    }
-    .a002-008 img{
-        width: 70%;
-        height: auto;
-        margin: auto;
     }
 }
 @media (max-width: 970px) {
-
-    .container0052{
+    .container004-2{
         max-width: 970px;
     }
 }
 @media (max-width: 870px) {
-
-    .container0052{
+    .container004-2{
         max-width: 870px;
     }
 }
 @media (max-width: 770px) {
-
-    .container0052{
+    .container004-2{
         max-width: 770px;
     }
 }
@@ -192,42 +186,38 @@
 /* cuarto grupo */
 
 @media (max-width: 670px) {
-    .container0052{
+    .container004-2{
         max-width: 670px;
     }
 }
 @media (max-width: 570px) {
-    .container0052{
+    .container004-2{
         max-width: 570px;
     }
 }
 @media (max-width: 470px) {
-    .container0052{
+    .container004-2{
         max-width: 470px;
     }
-    .a001-006{
+    .row-004-2 {
         width: 50%;
     }
-    .a002-0052 li{
-        margin: auto auto 1rem auto;
-    }
-
 }
 @media (max-width: 370px) {
-    .container0052{
+    .container004-2{
         max-width: 370px;
     }
 }
 @media (max-width: 270px) {
-    .container0052{
+    .container004-2{
         max-width: 270px;
     }
-    .a001-006{
+    .row-004-2 {
         width: 100%;
     }
 }
 @media (max-width: 170px) {
-    .container0052{
+    .container004-2{
         max-width: 170px;
     }
 }
@@ -240,31 +230,32 @@
 /* quinto grupo */
 
 @media (max-width: 150px) {
-    .container0052{
+    .container004-2{
         max-width: 150px;
     }
 }
-@media (max-width: 130px) {.container0052{
+@media (max-width: 130px) {
+    .container004-2{
         max-width: 130px;
     }
 }
 @media (max-width: 110px) {
-    .container0052{
+    .container004-2{
         max-width: 110px;
     }
 }
 @media (max-width: 100px) {
-    .container0052{
+    .container004-2{
         max-width: 100px;
     }
 }
 @media (max-width: 90px) {
-    .container0052{
+    .container004-2{
         max-width: 90px;
     }
 }
 @media (max-width: 80px) {
-    .container0052{
+    .container004-2{
         max-width: 80px;
     }
 }
@@ -277,32 +268,32 @@
 /* sexto grupo */
 
 @media (max-width: 70px) {
-    .container0052{
+    .container004-2{
         max-width: 70px;
     }
 }
 @media (max-width: 60px) {
-    .container0052{
+    .container004-2{
         max-width: 60px;
     }
 }
 @media (max-width: 50px) {
-    .container0052{
+    .container004-2{
         max-width: 50px;
     }
 }
 @media (max-width: 40px) {
-    .container0052{
+    .container004-2{
         max-width: 40px;
     }
 }
 @media (max-width: 30px) {
-    .container0052{
+    .container004-2{
         max-width: 30px;
     }
 }
 @media (max-width: 20px) {
-    .container0052{
+    .container004-2{
         max-width: 20px;
     }
 }

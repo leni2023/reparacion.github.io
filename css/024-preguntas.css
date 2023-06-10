@@ -2,6 +2,10 @@
     width: 100%;
     height: auto;
     /* background-color: #00c78b; */
+
+}
+.S1seccion-024--001-017-024{
+    display: none;
 }
 .container024{
     /* background-color: #c6d823; */
@@ -40,6 +44,8 @@
     /* background-color: #7520ff; */
     display: flex;
     margin-bottom: 3rem;
+
+    cursor: pointer;
 }
 .a0011-0241{
     width: 100%;
@@ -47,6 +53,8 @@
     /* background-color: #7520ff; */
     display: flex;
     margin-bottom: 3rem;
+
+    cursor: pointer;
 }
 .a0011-024--01{
     display: none;

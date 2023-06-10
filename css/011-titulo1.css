@@ -1,64 +1,37 @@
-.S1seccion-0052{
+.S1seccion-011{
     width: 100%;
     height: auto;
-    /* background-color: aqua; */
+    /* background-color: #6a44d1; */
 }
-.container0052{
-    width: 100%;
-    height: auto;
-    /* background-color: #e48a40; */
-    max-width: 2200px;
-
-    display: flex;
-    color: #009292;
-    padding: 0 2rem 3rem;
-    margin: auto;
-}
-.a001-0052{
-    width: 60rem;
-    height: auto;
-    /* background-color: #bf87ec; */
-
-    display: flex;
-}
-.a001-0052 span{
-    font-size: 4rem;
-    font-weight: 700;
-    padding: .1rem 0;
+.S1seccion-011parIgual-1{
+    background-color: #73ff6e;
     text-align: center;
-    margin: 0 auto;
 }
-.a002-0052{
+.S1seccion-011parIgual-2{
+    /* text-align: center; */
+    /* font-size: 2rem; */
+}
+.container011{
+    /* background-color: #b341e0; */
+    max-width: 2200px;
     height: auto;
-    width: 100%;
-    /* background-color: #505050; */
+    margin: 0 auto;
 
+    padding: 3rem 2rem;
     display: flex;
     flex-wrap: wrap;
+    align-items: center;
 }
-.a002-0052 li{
-    text-decoration: none;
-    list-style: none;
-    display: inline-block;
-    font-size: 3rem;
-    font-weight: 600;
-
-    /* background-color: #c23a3a; */
-    /* border-radius: 1rem; */
-    border-bottom: .5rem solid #00f7ff;
-
-    margin: auto 15rem auto 0;
-    /* padding: 0.1rem 2rem; */
-
-    cursor: pointer;
+.a001-011{
+    /* background-color: #6f5a77; */
+    margin: 0 auto;
 }
-.a002-0052 li div{
-    padding: 0.2rem 2rem;
-    /* background-color: #c23a3a; */
-    border-radius: 2rem;
-    /* border: .5rem solid #e58e8e; */
-    color: #005564;
+.a001-011 span{
+    font-size: 4rem;
+    font-weight: 700;
 }
+
+
 
 
 
@@ -67,32 +40,32 @@
 /* primer grupo */
 
 @media (max-width: 2470px) {
-    .container0052{
+    .container011{
         max-width: 2070px;
     }
 }
 @media (max-width: 2370px) {
-    .container0052{
+    .container011{
         max-width: 1970px;
     }
 }
 @media (max-width: 2270px) {
-    .container0052{
+    .container011{
         max-width: 1870px;
     }
 }
 @media (max-width: 2170px) {
-    .container0052{
+    .container011{
         max-width: 1770px;
     }
 }
 @media (max-width: 2070px) {
-    .container0052{
+    .container011{
         max-width: 1670px;
     }
 }
 @media (max-width: 1970px) {
-    .container0052{
+    .container011{
         max-width: 1570px;
     }
 }
@@ -105,32 +78,32 @@
 /* segundo grupo */
 
 @media (max-width: 1870px) {
-    .container0052{
+    .container011{
         max-width: 1570px;
     }
 }
 @media (max-width: 1770px) {
-    .container0052{
+    .container011{
         max-width: 1470px;
     }
 }
 @media (max-width: 1670px) {
-    .container0052{
+    .container011{
         max-width: 1370px;
     }
 }
 @media (max-width: 1570px) {
-    .container0052{
+    .container011{
         max-width: 1370px;
     }
 }
 @media (max-width: 1470px) {
-    .container0052{
+    .container011{
         max-width: 1270px;
     }
 }
 @media (max-width: 1370px) {
-    .container0052{
+    .container011{
         max-width: 1170px;
     }
 }
@@ -143,43 +116,35 @@
 /* tercer grupo */
 
 @media (max-width: 1270px) {
-
-    .container0052{
+    .container011{
         max-width: 1170px;
     }
 }
 @media (max-width: 1170px) {
-
-    .container0052{
+    .container011{
         max-width: 1070px;
     }
 }
 @media (max-width: 1070px) {
-
-    .container0052{
+    .container011{
         max-width: 970px;
-    }
-    .a002-008 img{
-        width: 70%;
-        height: auto;
-        margin: auto;
     }
 }
 @media (max-width: 970px) {
-
-    .container0052{
+    .container011{
         max-width: 970px;
     }
 }
 @media (max-width: 870px) {
-
-    .container0052{
+    .container011{
         max-width: 870px;
+    }
+    .a001-010{
+        width: 50%;
     }
 }
 @media (max-width: 770px) {
-
-    .container0052{
+    .container011{
         max-width: 770px;
     }
 }
@@ -192,42 +157,39 @@
 /* cuarto grupo */
 
 @media (max-width: 670px) {
-    .container0052{
+    .container011{
         max-width: 670px;
     }
 }
 @media (max-width: 570px) {
-    .container0052{
+    .container011{
         max-width: 570px;
     }
 }
 @media (max-width: 470px) {
-    .container0052{
+    .container011{
         max-width: 470px;
     }
     .a001-006{
         width: 50%;
     }
-    .a002-0052 li{
-        margin: auto auto 1rem auto;
-    }
 
 }
 @media (max-width: 370px) {
-    .container0052{
+    .container011{
         max-width: 370px;
     }
 }
 @media (max-width: 270px) {
-    .container0052{
+    .container011{
         max-width: 270px;
     }
-    .a001-006{
+    .a001-010{
         width: 100%;
     }
 }
 @media (max-width: 170px) {
-    .container0052{
+    .container011{
         max-width: 170px;
     }
 }
@@ -240,31 +202,32 @@
 /* quinto grupo */
 
 @media (max-width: 150px) {
-    .container0052{
+    .container011{
         max-width: 150px;
     }
 }
-@media (max-width: 130px) {.container0052{
+@media (max-width: 130px) {
+    .container011{
         max-width: 130px;
     }
 }
 @media (max-width: 110px) {
-    .container0052{
+    .container011{
         max-width: 110px;
     }
 }
 @media (max-width: 100px) {
-    .container0052{
+    .container011{
         max-width: 100px;
     }
 }
 @media (max-width: 90px) {
-    .container0052{
+    .container011{
         max-width: 90px;
     }
 }
 @media (max-width: 80px) {
-    .container0052{
+    .container011{
         max-width: 80px;
     }
 }
@@ -277,32 +240,32 @@
 /* sexto grupo */
 
 @media (max-width: 70px) {
-    .container0052{
+    .container011{
         max-width: 70px;
     }
 }
 @media (max-width: 60px) {
-    .container0052{
+    .container011{
         max-width: 60px;
     }
 }
 @media (max-width: 50px) {
-    .container0052{
+    .container011{
         max-width: 50px;
     }
 }
 @media (max-width: 40px) {
-    .container0052{
+    .container011{
         max-width: 40px;
     }
 }
 @media (max-width: 30px) {
-    .container0052{
+    .container011{
         max-width: 30px;
     }
 }
 @media (max-width: 20px) {
-    .container0052{
+    .container011{
         max-width: 20px;
     }
 }
