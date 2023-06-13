@@ -115,7 +115,7 @@
     border-radius: 2rem;
     margin: 0 auto;
 
-    border: .5rem solid #ff0000;
+    /* border: .5rem solid #ff0000; */
     box-shadow: 0rem 0rem 2rem .5rem #00f335;
 
     overflow: hidden;
@@ -147,9 +147,9 @@
     height: auto;
     /* background-color: #38e0ec; */
     margin: 10rem auto 0;
-    position: relative;
-
-    
+    position: relative; 
+    display: block; 
+    cursor:auto
 }
 .col-1-0041-3 span{
     font-size: 5rem;
@@ -157,6 +157,12 @@
     background-color: #38ec89;
     padding: 2rem;
     border-radius: 2rem;
+    /* display: block; */
+    color: #000000;
+    cursor: pointer;
+}
+.col-1-0041-3 span:hover{
+    background-color: #00ff73;
 }
 
 

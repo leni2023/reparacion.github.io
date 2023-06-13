@@ -2,14 +2,20 @@
     width: 100%;
     height: auto;
     /* background-color: #e24de7; */
+    min-height: 100vh;
 }
 .CamLigero-1{
     width: 100%;
     height: auto;
     /* background-color: #e24de7; */
 }
+.CamLigero-2{
+    /* height: 100%;
+    flex-direction: column; */
+}
 .span{
     padding-top: 30rem;
+    padding-bottom: 100rem;
     font-size: 5rem;
     display: block;
 }

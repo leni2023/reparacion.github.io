@@ -98,7 +98,12 @@
     font-weight: 600;
     color: #000000;
 }
-
+.a0000211-022 p:hover{
+    color: #0bb9c5;
+}
+.a0000211-022:hover{
+    border: .3rem solid #0bb9c5;
+}
 .a00022-022{
     width: 14rem;
     height: auto;
@@ -116,12 +121,18 @@
     display: flex;
     align-items: center;
     margin: auto auto auto;
-    border-bottom: inset .3rem #0bb9c5
+    border-bottom: inset .3rem #008a94
 }
 .a00022-022 a p{
     font-size: 2.5rem;
     margin: auto;
     font-weight: 600;
+    color: #007d86;
+}
+.a00022-022 a:hover{
+    border-bottom: inset .3rem #0bb9c5
+}
+.a00022-022 a p:hover{
     color: #0bb9c5;
 }
 .a00023-022{

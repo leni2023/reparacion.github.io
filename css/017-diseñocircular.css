@@ -66,22 +66,22 @@
     display: flex;
     color: #ffffff;
 
-    background-image: linear-gradient(180deg, #00000054 0%, #0000004f 100%), url(/material/img/jpg/uno.jpg);
+    background-image: linear-gradient(180deg, #00000054 0%, #0000004f 100%), url(https://leni2023.github.io/reparacion.github.io/material/img/jpg/uno.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 .a003-017--2{
-    background-image: linear-gradient(180deg, #00000054 0%, #0000004f 100%), url(/material/img/jpg/dos.jpg);
+    background-image: linear-gradient(180deg, #00000054 0%, #0000004f 100%), url(https://leni2023.github.io/reparacion.github.io/material/img/jpg/dos.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 .a003-017--3{
-    background-image: linear-gradient(180deg, #00000031 0%, #0000004f 100%), url(/material/img/jpg/tres.jpg);
+    background-image: linear-gradient(180deg, #00000031 0%, #0000004f 100%), url(https://leni2023.github.io/reparacion.github.io/material/img/jpg/tres.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 .a003-017--4{
-    background-image: linear-gradient(180deg, #1100ff54 0%, #0000004f 100%), url(/material/img/jpg/cuatro.jpg);
+    background-image: linear-gradient(180deg, #1100ff54 0%, #0000004f 100%), url(https://leni2023.github.io/reparacion.github.io/material/img/jpg/cuatro.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }

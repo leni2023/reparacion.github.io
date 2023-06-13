@@ -45,12 +45,18 @@
 
     /* background-color: #c23a3a; */
     /* border-radius: 1rem; */
-    border-bottom: .5rem solid #00f7ff;
+    border-bottom: .5rem solid #c4c4c4;
 
     margin: auto 15rem auto 0;
     /* padding: 0.1rem 2rem; */
 
     cursor: pointer;
+}
+.a002-0052 li:hover{
+    border-bottom: .5rem solid #00f7ff;
+}
+.a002-0052p1p2p3{
+    border-bottom: .5rem solid #00f7ff !important;
 }
 .a002-0052 li div{
     padding: 0.2rem 2rem;
