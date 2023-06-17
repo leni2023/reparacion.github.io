@@ -119,49 +119,31 @@
 /* primer grupo */
 
 @media (max-width: 2470px) {
-    html {
-        font-size: 9px;
-    }
     .container012{
         max-width: 2070px;
     }
 }
 @media (max-width: 2370px) {
-    html {
-        font-size: 9px;
-    }
     .container012{
         max-width: 1970px;
     }
 }
 @media (max-width: 2270px) {
-    html {
-        font-size: 9px;
-    }
     .container012{
         max-width: 1870px;
     }
 }
 @media (max-width: 2170px) {
-    html {
-        font-size: 8px;
-    }
     .container012{
         max-width: 1770px;
     }
 }
 @media (max-width: 2070px) {
-    html {
-        font-size: 8px;
-    }
     .container012{
         max-width: 1670px;
     }
 }
 @media (max-width: 1970px) {
-    html {
-        font-size: 8px;
-    }
     .container012{
         max-width: 1570px;
     }
@@ -175,49 +157,31 @@
 /* segundo grupo */
 
 @media (max-width: 1870px) {
-    html {
-        font-size: 7px;
-    }
     .container012{
         max-width: 1570px;
     }
 }
 @media (max-width: 1770px) {
-    html {
-        font-size: 7px;
-    }
     .container012{
         max-width: 1470px;
     }
 }
 @media (max-width: 1670px) {
-    html {
-        font-size: 7px;
-    }
     .container012{
         max-width: 1370px;
     }
 }
 @media (max-width: 1570px) {
-    html {
-        font-size: 6px;
-    }
     .container012{
         max-width: 1370px;
     }
 }
 @media (max-width: 1470px) {
-    html {
-        font-size: 6px;
-    }
     .container012{
         max-width: 1270px;
     }
 }
 @media (max-width: 1370px) {
-    html {
-        font-size: 6px;
-    }
     .container012{
         max-width: 1170px;
     }
@@ -231,41 +195,26 @@
 /* tercer grupo */
 
 @media (max-width: 1270px) {
-    html {
-        font-size: 5px;
-    }
     .container012{
         max-width: 1170px;
     }
 }
 @media (max-width: 1170px) {
-    html {
-        font-size: 5px;
-    }
     .container012{
         max-width: 1070px;
     }
 }
 @media (max-width: 1070px) {
-    html {
-        font-size: 5px;
-    }
     .container012{
         max-width: 970px;
     }
 }
 @media (max-width: 970px) {
-    html {
-        font-size: 4px;
-    }
     .container012{
         max-width: 970px;
     }
 }
 @media (max-width: 870px) {
-    html {
-        font-size: 4px;
-    }
     .container012{
         max-width: 870px;
     }
@@ -274,9 +223,6 @@
     }
 }
 @media (max-width: 770px) {
-    html {
-        font-size: 4px;
-    }
     .container012{
         max-width: 770px;
     }
@@ -290,25 +236,16 @@
 /* cuarto grupo */
 
 @media (max-width: 670px) {
-    html {
-        font-size: 3px;
-    }
     .container012{
         max-width: 670px;
     }
 }
 @media (max-width: 570px) {
-    html {
-        font-size: 3px;
-    }
     .container012{
         max-width: 570px;
     }
 }
 @media (max-width: 470px) {
-    html {
-        font-size: 3px;
-    }
     .container012{
         max-width: 470px;
     }
@@ -321,17 +258,11 @@
 
 }
 @media (max-width: 370px) {
-    html {
-        font-size: 2px;
-    }
     .container012{
         max-width: 370px;
     }
 }
 @media (max-width: 270px) {
-    html {
-        font-size: 2px;
-    }
     .container012{
         max-width: 270px;
     }
@@ -340,9 +271,6 @@
     }
 }
 @media (max-width: 170px) {
-    html {
-        font-size: 2px;
-    }
     .container012{
         max-width: 170px;
     }
@@ -356,49 +284,31 @@
 /* quinto grupo */
 
 @media (max-width: 150px) {
-    html {
-        font-size: 1.5px;
-    }
     .container012{
         max-width: 150px;
     }
 }
 @media (max-width: 130px) {
-    html {
-        font-size: 1.5px;
-    }
     .container012{
         max-width: 130px;
     }
 }
 @media (max-width: 110px) {
-    html {
-        font-size: 1.5px;
-    }
     .container012{
         max-width: 110px;
     }
 }
 @media (max-width: 100px) {
-    html {
-        font-size: 1px;
-    }
     .container012{
         max-width: 100px;
     }
 }
 @media (max-width: 90px) {
-    html {
-        font-size: 1px;
-    }
     .container012{
         max-width: 90px;
     }
 }
 @media (max-width: 80px) {
-    html {
-        font-size: 1px;
-    }
     .container012{
         max-width: 80px;
     }
@@ -412,49 +322,31 @@
 /* sexto grupo */
 
 @media (max-width: 70px) {
-    html {
-        font-size: 0.5px;
-    }
     .container012{
         max-width: 70px;
     }
 }
 @media (max-width: 60px) {
-    html {
-        font-size: 0.5px;
-    }
     .container012{
         max-width: 60px;
     }
 }
 @media (max-width: 50px) {
-    html {
-        font-size: 0.5px;
-    }
     .container012{
         max-width: 50px;
     }
 }
 @media (max-width: 40px) {
-    html {
-        font-size: 0.1px;
-    }
     .container012{
         max-width: 40px;
     }
 }
 @media (max-width: 30px) {
-    html {
-        font-size: 0.1px;
-    }
     .container012{
         max-width: 30px;
     }
 }
 @media (max-width: 20px) {
-    html {
-        font-size: 0.1px;
-    }
     .container012{
         max-width: 20px;
     }
