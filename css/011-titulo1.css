@@ -1,10 +1,10 @@
 .S1seccion-011{
     width: 100%;
     height: auto;
-    background-color: #6a44d1;
+    /* background-color: #6a44d1; */
 }
 .S1seccion-011parIgual-1{
-    background-color: #73ff6e;
+    /* background-color: #73ff6e; */
     text-align: center;
 }
 .S1seccion-011parIgual-2{
@@ -26,6 +26,9 @@
     /* background-color: #6f5a77; */
     margin: 0 auto;
 }
+.a001-011 a{
+    color: #00b4b4;
+}
 .a001-011 span{
     font-size: 4rem;
     font-weight: 700;
@@ -37,12 +40,12 @@
 .t1{
     width: 100%;
     height: auto;
-    background-color: #41e0b8;
+    /* background-color: #41e0b8; */
 }
 .t1-1{
     width: 150rem;
     height: 75rem;
-    background-color: #96e041;
+    /* background-color: #96e041; */
     margin: 0 auto 2rem;
     position: relative;
 }
@@ -52,12 +55,20 @@
 .t1-2{
     width: 32rem;
     height: 64rem;
-    background-color: #4441e0;
+    /* background-color: #4441e0; */
     margin: 0 auto 3rem;
 }
 .a001-011parrafo1xbet{
     font-size: 2.5rem;
     font-size: 400;
+}
+.hoverservidores:hover{
+    color: #52ffff;
+}
+.a001-011titulo1xbet{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
 }
 /* la que tapa la opcion ir a drive */
 .t1-11{
@@ -72,7 +83,24 @@
     height: 100%;
     margin: 0 0 0 auto;
 }
+.a001-011p1{
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 600;
+    display: block;
+    margin: 0 auto;
 
+}
+.a001-011p2{
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 600;
+    display: block;
+    margin: 0 auto;
+}
+.a001-011p2:hover{
+    color: #52ffff;
+}
 
 
 
