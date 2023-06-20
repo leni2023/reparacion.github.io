@@ -204,7 +204,7 @@
     /* background-color: #6a44d1; */
 }
 .S1seccion-008principalEspacio{
-    padding: 25rem 0 0 0;
+    padding: 5rem 0 0 0;
 }
 .container021{
     /* background-color: #b341e0; */
@@ -226,6 +226,9 @@
     display: flex;
    
 }
+.busstemp{
+    display: none;
+}
 .C-042{
     height: 100%;
     width: 100%;
@@ -241,7 +244,7 @@
 .C-042-1{
     width: 100%;
     height: auto;
-    background-image: linear-gradient(180deg, #00000071 0%, #0000004b 100%), url(../img/Curso\ Adobe\ Illustrator\ CC.png);
+    background-image: linear-gradient(180deg, #00000071 0%, #0000004b 100%), url(/material/img/jpg/Transformers_El_despertar_de_las_bestias.jpg);
     background-size: cover;
     padding: 2rem 0 0;
 
@@ -311,7 +314,7 @@
     width: 100%;
     height: auto;
     /* background-color: #e71f1f; */
-    margin: 6rem auto 0;
+    margin: 30rem auto;
     color: #fff;
 
     display: flex;
@@ -399,7 +402,7 @@
 }
 .C-042-333{
     margin: auto;
-    line-height: 1.5;
+    text-align: left;
 
     font-size: 2.5rem;
     font-weight: 500;
@@ -463,24 +466,10 @@
     padding: 2rem;
     display: flex;
 }
-.C-042-5-11{
-    width: 45%;
-    height: auto;
-    background-color: #00ff40;
-    border-radius: 1rem;
-    margin: auto;
-    font-size: 2.5rem;
-    font-weight: 700;
-    cursor: pointer;
-
-    padding: 1rem .5rem;
-    display: flex;
-    text-align: center;
-}
 .C-042-5-12{
-    width: 45%;
+    width: 100%;
     height: auto;
-    background-color: #b618ff;
+    background-color: #00dbc9;
     border-radius: 1rem;
     margin: auto;
     font-size: 2.5rem;
@@ -491,9 +480,20 @@
     display: flex;
     text-align: center;
 }
+.C-042-5-12:hover{
+    background-color: #dba800;
+}
 .C-042-5-1112{
     margin: auto;
-    color: #000;
+}
+.C-042-5-1112 a{
+    font-size: 3rem;
+    font-weight: 600;
+    color: #000000;
+}
+.C-042-5-1112 a:hover{
+    font-weight: 700;
+    color: #000296;
 }
 
 /* este es el cuadro de video para reproducirse */
@@ -687,6 +687,9 @@
     .container021{
         max-width: 970px;
     }
+    .C-041{
+        width: 33.33%;
+    }
 }
 @media (max-width: 970px) {
     .container021{
@@ -718,6 +721,9 @@
     .container021{
         max-width: 670px;
     }
+    .C-041{
+        width: 50%;
+    }
 }
 @media (max-width: 570px) {
     .container021{
@@ -739,6 +745,9 @@
 @media (max-width: 370px) {
     .container021{
         max-width: 370px;
+    }
+    .C-041{
+        width: 100%;
     }
 }
 @media (max-width: 270px) {
