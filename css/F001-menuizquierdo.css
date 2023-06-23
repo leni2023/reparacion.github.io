@@ -9,7 +9,7 @@
 .FS1seccion-001none{
     position: fixed;
     width: 45rem;
-    height: 100vh;
+    height: 100%;
     background-color: #0e93ff;
     /* padding: 1rem; */
     overflow: scroll;
