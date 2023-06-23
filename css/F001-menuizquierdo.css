@@ -3,21 +3,22 @@
     width: auto;
     height: auto;
     background-color: #16ff0e;
-    padding: 1rem;
+    /* padding: 1rem; */
     z-index: 1;
 }
 .FS1seccion-001none{
     position: fixed;
-    width: 100rem;
+    width: 45rem;
     height: 100vh;
     background-color: #0e93ff;
-    padding: 1rem;
+    /* padding: 1rem; */
+    overflow: scroll;
 }
 .containerF001{
     width: 100%;
-    background-color: #fff;
+    background-color: #b9d63a;
     height: 100%;
-    padding: 2rem;
+    padding: 2rem 2rem 1rem 1rem;
 
     display: flex;
     flex-direction: column;
@@ -41,7 +42,7 @@
 .containerF001-001 i{
     background-color: #ffffff;
     border-radius: 2rem;
-    border: 1px solid #000000;
+    border: .3rem solid #000000;
     box-shadow: 0 0 .5rem 0 #000000;
     padding: 1rem 2rem;
     font-size: 8rem;
@@ -66,17 +67,6 @@
     flex-wrap: wrap;
     /* display: none; */
 }
-.Fa002-01-001{
-    width: auto;
-    background-color: #d1cf44;
-    height: auto;
-
-    margin: 0 auto auto;
-}
-.Fa002-01-001 img{
-    width: 100%;
-    height: auto;
-}
 .Fa002-02-001{
     width: 100%;
     height: auto;
@@ -87,7 +77,7 @@
     height: auto;
     background-color: #d15944;
     border-bottom: .5rem solid #ffee00;
-    padding: 0 .5rem;
+    padding: 0;
 
     display: flex;
 }
@@ -97,24 +87,24 @@
     text-align: center;
     margin: 0 auto;
 }
-.Fa002-04-001{
+.Fa002-01-001{
     width: 100%;
+    background-color: #449dd1;
     height: auto;
-    background-color: #50d144;
 
+    margin: 0 auto auto;
     display: flex;
 }
-.Fa002-04-001 span{
-    font-size: 3rem;
-    font-weight: 500;
-    text-align: center;
+.Fa002-01-001 img{
+    width: 30rem;
+    height: auto;
     margin: 0 auto;
 }
 .Fa003-001{
-    width: 7rem;
+    width: 8rem;
     background-color: #d144c5;
     height: 7rem;
-    border-radius: 2rem;
+    border-radius: 1rem;
 
     margin: -1.5rem -1.5rem auto auto;
 
@@ -123,8 +113,9 @@
     /* display: none; */
 }
 .Fa003-001 i{
-    font-size: 10rem;
-    margin: -22% 0 auto -4%;
+    font-size: 7rem;
+    margin: auto;
+    color: #000000;
 }
 .Fa004-001{
     width: 100%;
@@ -147,7 +138,7 @@
     margin: auto;
 
     box-shadow: inset 1rem -1rem 2rem 0 #4bfd15;
-    border-radius: 2rem;
+    border-radius: 1rem;
     cursor: pointer;
 
     display: flex;
@@ -163,7 +154,7 @@
 }
 .Fa005-001 li span{
     background-color: none;
-    font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 700;
     margin: auto 0 auto 2rem;
 }
