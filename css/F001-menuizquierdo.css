@@ -2,7 +2,7 @@
     position: fixed;
     width: auto;
     height: auto;
-    background-color: #16ff0e;
+    /* background-color: #e47070; */
     /* padding: 1rem; */
     z-index: 1;
 }
@@ -10,13 +10,13 @@
     position: fixed;
     width: 45rem;
     height: 100%;
-    background-color: #0e93ff;
+    background-color: #838383;
     /* padding: 1rem; */
     overflow: scroll;
 }
 .containerF001{
     width: 100%;
-    background-color: #b9d63a;
+    /* background-color: #b9d63a; */
     height: 100%;
     padding: 2rem 2rem 1rem 1rem;
 
@@ -33,25 +33,39 @@
 .containerF001-001{
     width: auto;
     height: auto;
-    background-color: #dd6161;
+    /* background-color: #dd6161; */
     display: inline-block;
 
     padding: 1rem;
 }
 .containerF001-001 i{
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
     border-radius: 2rem;
-    border: .3rem solid #000000;
+    border: .3rem solid #ffffff;
     box-shadow: 0 0 .5rem 0 #000000;
     padding: 1rem 2rem;
     font-size: 8rem;
+    background-color: #000000;
+    color: #ffffff;
+    cursor: pointer;
+}
+.containerF001-001 i:hover{
+    /* background-color: #ffffff; */
+    border-radius: 2rem;
+    border: .3rem solid #000000;
+    box-shadow: 0 0 .5rem 0 #ffffff;
+    padding: 1rem 2rem;
+    font-size: 8rem;
+    background-color: #ffffff;
+    color: #000000;
+    cursor: pointer;
 }
 .containerF001-001none{
     display: none;
 }
 .Fa001-001{
     width: 100%;
-    background-color: #44ccd1;
+    /* background-color: #44ccd1; */
     height: auto;
 
     display: flex;
@@ -59,7 +73,7 @@
 }
 .Fa002-001{
     width: 100%;
-    background-color: #4459d1;
+    /* background-color: #4459d1; */
     height: auto;
 
     display: flex;
@@ -69,12 +83,12 @@
 .Fa002-02-001{
     width: 100%;
     height: auto;
-    background-color: #44d183;
+    /* background-color: #44d183; */
 }
 .Fa002-03-001{
     width: 100%;
     height: auto;
-    background-color: #d15944;
+    /* background-color: #d15944; */
     border-bottom: .5rem solid #ffee00;
     padding: 0;
 
@@ -85,10 +99,11 @@
     font-weight: 700;
     text-align: center;
     margin: 0 auto;
+    color: #ffffff;
 }
 .Fa002-01-001{
     width: 100%;
-    background-color: #449dd1;
+    /* background-color: #449dd1; */
     height: auto;
 
     margin: 0 auto auto;
@@ -101,14 +116,18 @@
 }
 .Fa003-001{
     width: 8rem;
-    background-color: #d144c5;
+    background-color: #ffffff;
     height: 7rem;
     border-radius: 1rem;
 
     margin: -1.5rem -1.5rem auto auto;
 
     display: flex;
+    cursor: pointer;
     /* display: none; */
+}
+.Fa003-001:hover{
+    background-color: #00f0dc;
 }
 .Fa003-001 i{
     font-size: 7rem;
@@ -117,12 +136,12 @@
 }
 .Fa004-001{
     width: 100%;
-    background-color: #d144c5;
+    /* background-color: #d144c5; */
     height: 100%;
 }
 .Fa005-001{
     width: 100%;
-    background-color: #b48bff;
+    /* background-color: #b48bff; */
     height: 100%;
 
     display: flex;
@@ -132,11 +151,11 @@
 .Fa005-001 a{
     display: block;
     width: 100%;
-    background-color: #c7f2ff;
+    /* background-color: #c7f2ff; */
     height: auto;
     margin: auto;
 
-    box-shadow: inset 1rem -1rem 2rem 0 #4bfd15;
+    box-shadow: inset .5rem -.5rem .1rem 0 #4bfd15;
     border-radius: 1rem;
     cursor: pointer;
 
@@ -144,11 +163,11 @@
     padding: 1rem;
 }
 .Fa005-001 a:hover{
-    box-shadow: inset 1rem -1rem 2rem 0 #b0ec22;
+    box-shadow: inset 1rem -1rem 2rem 0 #ffffff;
 }
 .Fa005-001 a i{
     font-size: 4rem;
-    color: #000000;
+    color: #ffffff;
     margin: auto 0 auto auto;
 }
 .Fa005-001 a span{
@@ -156,7 +175,7 @@
     font-size: 2.5rem;
     font-weight: 700;
     margin: auto auto auto 0;
-    color: #000000;
+    color: #ffffff;
 }
 
 
