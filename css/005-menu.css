@@ -167,6 +167,9 @@
     .container005{
         /* max-width: 1070px; */
     }
+    .S1seccion-005{
+        display: none;
+    }
 }
 @media (max-width: 1070px) {
     .container005{

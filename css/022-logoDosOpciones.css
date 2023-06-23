@@ -94,7 +94,7 @@
 .a0000211-022 p{
     font-size: 2.5rem;
     margin: 1% auto auto auto;
-    font-weight: 600;
+    font-weight: 700;
     color: #000000;
 }
 .a0000211-022 p:hover{
@@ -125,7 +125,7 @@
 .a00022-022 a p{
     font-size: 2.5rem;
     margin: auto;
-    font-weight: 600;
+    font-weight: 700;
     color: #007d86;
 }
 .a00022-022 a:hover{
@@ -257,6 +257,19 @@
 @media (max-width: 1070px) {
     .container022{
         max-width: 970px;
+        flex-wrap: wrap;
+    }
+    .a0002-022 {
+        width: 100%;
+    }
+    .a000021-022 {
+        margin: 0 auto;
+    }
+    .a00022-022 {
+        margin: 0 0 0 auto;
+    }
+    .a00023-022 {
+        margin: 0 auto 0 0;
     }
 }
 @media (max-width: 970px) {
@@ -272,6 +285,22 @@
 @media (max-width: 770px) {
     .container022{
         max-width: 770px;
+    }
+    .a002-022 {
+        width: 100%;
+        display: flex;
+    }
+    .a002-022 img {
+        width: 50rem;
+        margin: 0 auto;
+    }
+    .a0022-022 {
+        width: 100%;
+        display: flex;
+    }
+    .a0022-022 img {
+        width: 90%;
+        margin: 0 auto;
     }
 }
 
@@ -303,12 +332,15 @@
     .container022{
         max-width: 370px;
     }
+    .a002-022 img {
+        width: 90%;
+    }
 }
 @media (max-width: 296px) {
 
     .container022{
         display: block;
-        height: 40rem;
+        height: auto;
     }
     .a000-022 {
         margin: auto ;
@@ -321,6 +353,12 @@
     .container022{
         max-width: 270px;
     }
+    .a0002-022 {
+        flex-wrap: wrap;
+    }
+    .a000021-022 {
+        width: 100%;
+    }
 }
 @media (max-width: 170px) {
     .container022{
@@ -331,7 +369,6 @@
 
     .container022{
         display: block;
-        height: 65rem;
     }
     .a001-022{
         display: block;
@@ -397,7 +434,7 @@
 @media (max-width: 70px) {
     .container022{
         max-width: 70px;
-        height: 120rem;
+
     }
     .a000-022 {
         display: flex;
@@ -433,13 +470,12 @@
 }
 @media (max-width: 35px) {
     .container022{
-        height: 110rem;
+        /* height: 110rem; */
     }
 }
 @media (max-width: 30px) {
     .container022{
         max-width: 30px;
-        height: 95rem;
     }
 }
 @media (max-width: 20px) {

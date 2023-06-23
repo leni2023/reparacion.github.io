@@ -1,14 +1,14 @@
 .S1seccion-024{
     width: 100%;
     height: auto;
-    /* background-color: #00c78b; */
+    background-color: #00c78b;
 
 }
 .S1seccion-024--001-017-024{
     display: none;
 }
 .container024{
-    /* background-color: #c6d823; */
+    background-color: #c6d823;
     max-width: 2200px;
     height: auto;
     margin: 0 auto;
@@ -21,7 +21,7 @@
 .a000-024{
     width: 150rem;
     height: auto;
-    /* background-color: #44d17f;  */
+    background-color: #44d17f; 
 
     display: flex;
     align-items: center;
@@ -31,7 +31,7 @@
 .a001-024{
     width: 150rem;
     height: auto;
-    /* background-color: #c4ff20; */
+    background-color: #c4ff20;
 
     display: flex;
     flex-wrap: wrap;
@@ -41,7 +41,7 @@
 .a0011-024{
     width: 100%;
     height: auto;
-    /* background-color: #7520ff; */
+    background-color: #7520ff;
     display: flex;
     margin-bottom: 3rem;
     margin-top: 3rem;
@@ -51,7 +51,7 @@
 .a0011-0241{
     width: 100%;
     height: auto;
-    /* background-color: #7520ff; */
+    background-color: #7520ff;
     display: flex;
     margin-bottom: 3rem;
     margin-top: 3rem;
@@ -66,35 +66,35 @@
 .a00111-024{
     width: 6rem;
     height: auto;
-    /* background-color: #ff4120; */
+    background-color: #ff4120;
     margin: 0;
 
     display: flex;
 }
 .a00111-024 span{
     margin: auto auto auto 0;
-    font-size: 2.5rem;
-    font-weight: 500;
+    font-size: 3rem;
+    font-weight: 700;
     color: #0055b6;
 }
 .a00112-024{
     margin: 0 auto 0 0;
     width: auto;
     height: auto;
-    /* background-color: #ff2075; */
+    background-color: #ff2075;
 
     display: flex;
 }
 .a00112-024 span{
     margin: auto auto auto 0;
     font-size: 2.5rem;
-    font-weight: 500;
+    font-weight: 700;
 }
 .a00113-024{
     margin: 0 0 0 auto;
     width: 5rem;
     height: auto;
-    /* background-color: #20ffff; */
+    background-color: #20ffff;
 
     display: flex;
 }
@@ -106,7 +106,7 @@
     width: 100%;
     /* height: auto; */
     max-height: 300rem;
-    /* background-color: #9266d8; */
+    background-color: #9266d8;
 
     visibility: visible;
 
@@ -118,7 +118,7 @@
 .a00121-024{
     width: 100%;
     height: auto;
-    /* background-color: #1c7d96; */
+    background-color: #1c7d96;
 
     margin: 0 0 0 6rem;
 }
@@ -136,14 +136,14 @@
 .a001211-024{
     width: 100%;
     min-height: 6rem;
-    /* background-color: #1c964b; */
+    background-color: #1c964b;
 
     display: flex;
 }
 .a0012111-024{
     width: 5rem;
     height: auto;
-    /* background-color: #961c30; */
+    background-color: #961c30;
 
     margin: 0;
     display: flex;
@@ -155,7 +155,7 @@
 .a0012112-024{
     width: 100%;
     height: auto;
-    /* background-color: #ff8d8d; */
+    background-color: #ff8d8d;
 
     display: flex;
     margin: 0;
@@ -164,6 +164,7 @@
     margin: auto auto auto 0;
     text-align: left;
     font-size: 2.5rem;
+    font-weight: 400;
 }
 
 
@@ -263,6 +264,9 @@
     .container024{
         max-width: 1070px;
     }
+    .a000-024 {
+        width: 130rem;
+    }
 }
 @media (max-width: 1070px) {
     .container024{
@@ -273,6 +277,9 @@
     .container024{
         max-width: 970px;
     }
+    .a000-024 {
+        width: 110rem;
+    }
 }
 @media (max-width: 870px) {
     .container024{
@@ -282,6 +289,9 @@
 @media (max-width: 770px) {
     .container024{
         max-width: 770px;
+    }
+    .a000-024 {
+        width: 100%;
     }
 }
 
@@ -300,9 +310,6 @@
 @media (max-width: 570px) {
     .container024{
         max-width: 570px;
-    }
-    .a000-024{
-        width: 80%;
     }
 }
 @media (max-width: 470px) {
