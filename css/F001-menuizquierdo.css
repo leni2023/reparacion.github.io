@@ -142,7 +142,7 @@
     cursor: pointer;
 
     display: flex;
-    padding: 1rem 0;
+    padding: 1rem;
 }
 .Fa005-001 li:hover{
     box-shadow: inset 1rem -1rem 2rem 0 #b0ec22;
@@ -150,13 +150,13 @@
 .Fa005-001 li i{
     font-size: 4rem;
     background-color: none;
-    margin: auto 0;
+    margin: auto 0 auto auto;
 }
 .Fa005-001 li span{
     background-color: none;
     font-size: 2.5rem;
     font-weight: 700;
-    margin: auto 0 auto 2rem;
+    margin: auto auto auto 0;
 }
 
 
