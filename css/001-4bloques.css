@@ -64,11 +64,13 @@
     margin: 0 auto 2rem;
 }
 .col-0 h3{
-    font-size: 4rem;
+    font-size: 3rem;
+    font-weight: 600;
     margin: 0 auto 0.5em;
 }
 .col-0 p{
     font-size: 2.5rem;
+    font-weight: 400;
 }
 span {
     font-size: 2rem;
@@ -211,7 +213,7 @@ span {
         max-width: 470px;
     }
     .row {
-        width: 50%;
+        width: 100%;
     }
 }
 @media (max-width: 370px) {
@@ -248,6 +250,9 @@ span {
 @media (max-width: 130px) {
     .container{
         max-width: 130px;
+    }
+    .col-1 {
+        width: 100%;
     }
 }
 @media (max-width: 110px) {

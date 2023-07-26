@@ -52,11 +52,13 @@
     margin: 0 auto 2rem;
 }
 .col-0-004-2 h3{
-    font-size: 4rem;
+    font-size: 3.5rem;
+    font-weight: 700;
     margin: 0 auto 0.5em;
 }
 .col-0-004-2 p{
     font-size: 2.5rem;
+    font-weight: 400;
     text-align: left;
 }
 /* span {
@@ -207,13 +209,13 @@
     .container004-2{
         max-width: 370px;
     }
+    .row-004-2 {
+        width: 100%;
+    }
 }
 @media (max-width: 270px) {
     .container004-2{
         max-width: 270px;
-    }
-    .row-004-2 {
-        width: 100%;
     }
 }
 @media (max-width: 170px) {

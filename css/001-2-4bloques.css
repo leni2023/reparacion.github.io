@@ -54,11 +54,13 @@
     margin: 0 auto;
 }
 .col-0-p2 h3{
-    font-size: 4rem;
+    font-size: 3.5rem;
+    font-weight: 700;
     margin: 0 auto 0.2em;
 }
 .col-0-p2 p{
     font-size: 2.5rem;
+    font-weight: 400;
 }
 span {
     font-size: 2rem;
@@ -172,6 +174,9 @@ span {
     .container-p2{
         max-width: 870px;
     }
+    .row-p2 {
+        width: 33.33%;
+    }
 }
 @media (max-width: 770px) {
     .container-p2{
@@ -195,26 +200,26 @@ span {
     .container-p2{
         max-width: 570px;
     }
+    .row-p2 {
+        width: 50%;
+    }
 }
 @media (max-width: 470px) {
     .container-p2{
         max-width: 470px;
-    }
-    .row-p2 {
-        width: 50%;
     }
 }
 @media (max-width: 370px) {
     .container-p2{
         max-width: 370px;
     }
+    .row-p2 {
+        width: 100%;
+    }
 }
 @media (max-width: 270px) {
     .container-p2{
         max-width: 270px;
-    }
-    .row-p2 {
-        width: 100%;
     }
 }
 @media (max-width: 170px) {
