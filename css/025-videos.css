@@ -1,4 +1,4 @@
-.S1seccion-001-p2{
+.S1seccion-025{
     /* background-color: #48c289; */
     width: 100%;
     height: auto;
@@ -9,7 +9,7 @@
     color: #fff;
 
 }
-.container-p2{
+.container-025{
     /* background-color: #c95beb; */
     max-width: 2200px;
     height: auto;
@@ -19,9 +19,9 @@
     display: flex;
     flex-wrap: wrap;
 }
-.row-p2 {
+.row-025 {
     /* padding: 100px 50px; */
-    width: 25%;
+    width: 140rem;
     height: auto;
     /* background-color: #a1aa1e; */
     /* border-top: 10px solid #fff;
@@ -30,62 +30,43 @@
     margin: 0 auto ;
     /* justify-content: center; */
     /* display: flex; */
-    padding: 3rem 2rem;
-}
-.col-1-p2 {
-    display: flex;
-    width: 100%;
-    padding: 0;
-    margin: 0 auto;
-}
-.col-0-p2 {
-    border-radius: 2rem;
-    background-color: #9e9e9e;
     padding: 2rem;
-    height: 100%;
-    text-align: center
+    box-shadow: inset 0rem 0rem 2rem 0.5rem #b5b5b5;
 }
-.col-0-p2 h3 {
-    font-size: 3.5rem;
-    font-weight: 700;
-    margin: 0 auto 0.2em;
-}
-.col-0-p2 p {
-    font-size: 2.5rem;
-    font-weight: 400;
-}
+
+
 
 
 
 /* primer grupo */
 
 @media (max-width: 2470px) {
-    .container-p2{
+    .container-025{
         max-width: 2070px;
     }
 }
 @media (max-width: 2370px) {
-    .container-p2{
+    .container-025{
         max-width: 1970px;
     }
 }
 @media (max-width: 2270px) {
-    .container-p2{
+    .container-025{
         max-width: 1870px;
     }
 }
 @media (max-width: 2170px) {
-    .container-p2{
+    .container-025{
         max-width: 1770px;
     }
 }
 @media (max-width: 2070px) {
-    .container-p2{
+    .container-025{
         max-width: 1670px;
     }
 }
 @media (max-width: 1970px) {
-    .container-p2{
+    .container-025{
         max-width: 1570px;
     }
 }
@@ -98,32 +79,32 @@
 /* segundo grupo */
 
 @media (max-width: 1870px) {
-    .container-p2{
+    .container-025{
         max-width: 1570px;
     }
 }
 @media (max-width: 1770px) {
-    .container-p2{
+    .container-025{
         max-width: 1470px;
     }
 }
 @media (max-width: 1670px) {
-    .container-p2{
+    .container-025{
         max-width: 1370px;
     }
 }
 @media (max-width: 1570px) {
-    .container-p2{
+    .container-025{
         max-width: 1370px;
     }
 }
 @media (max-width: 1470px) {
-    .container-p2{
+    .container-025{
         max-width: 1270px;
     }
 }
 @media (max-width: 1370px) {
-    .container-p2{
+    .container-025{
         max-width: 1170px;
     }
 }
@@ -136,35 +117,35 @@
 /* tercer grupo */
 
 @media (max-width: 1270px) {
-    .container-p2{
+    .container-025{
         max-width: 1170px;
     }
 }
 @media (max-width: 1170px) {
-    .container-p2{
+    .container-025{
         max-width: 1070px;
     }
 }
 @media (max-width: 1070px) {
-    .container-p2{
+    .container-025{
         max-width: 970px;
     }
 }
 @media (max-width: 970px) {
-    .container-p2{
+    .container-025{
         max-width: 970px;
     }
 }
 @media (max-width: 870px) {
-    .container-p2{
+    .container-025{
         max-width: 870px;
     }
-    .row-p2 {
+    .row-025 {
         width: 100%;
     }
 }
 @media (max-width: 770px) {
-    .container-p2{
+    .container-025{
         max-width: 770px;
     }
 }
@@ -177,35 +158,35 @@
 /* cuarto grupo */
 
 @media (max-width: 670px) {
-    .container-p2{
+    .container-025{
         max-width: 670px;
     }
 }
 @media (max-width: 570px) {
-    .container-p2{
+    .container-025{
         max-width: 570px;
     }
 }
 @media (max-width: 470px) {
-    .container-p2{
+    .container-025{
         max-width: 470px;
     }
 }
 @media (max-width: 370px) {
-    .container-p2{
+    .container-025{
         max-width: 370px;
     }
-    .row-p2 {
+    .row-025 {
         width: 100%;
     }
 }
 @media (max-width: 270px) {
-    .container-p2{
+    .container-025{
         max-width: 270px;
     }
 }
 @media (max-width: 170px) {
-    .container-p2{
+    .container-025{
         max-width: 170px;
     }
 }
@@ -218,32 +199,32 @@
 /* quinto grupo */
 
 @media (max-width: 150px) {
-    .container-p2{
+    .container-025{
         max-width: 150px;
     }
 }
 @media (max-width: 130px) {
-    .container-p2{
+    .container-025{
         max-width: 130px;
     }
 }
 @media (max-width: 110px) {
-    .container-p2{
+    .container-025{
         max-width: 110px;
     }
 }
 @media (max-width: 100px) {
-    .container-p2{
+    .container-025{
         max-width: 100px;
     }
 }
 @media (max-width: 90px) {
-    .container-p2{
+    .container-025{
         max-width: 90px;
     }
 }
 @media (max-width: 80px) {
-    .container-p2{
+    .container-025{
         max-width: 80px;
     }
 }
@@ -256,32 +237,32 @@
 /* sexto grupo */
 
 @media (max-width: 70px) {
-    .container-p2{
+    .container-025{
         max-width: 70px;
     }
 }
 @media (max-width: 60px) {
-    .container-p2{
+    .container-025{
         max-width: 60px;
     }
 }
 @media (max-width: 50px) {
-    .container-p2{
+    .container-025{
         max-width: 50px;
     }
 }
 @media (max-width: 40px) {
-    .container-p2{
+    .container-025{
         max-width: 40px;
     }
 }
 @media (max-width: 30px) {
-    .container-p2{
+    .container-025{
         max-width: 30px;
     }
 }
 @media (max-width: 20px) {
-    .container-p2{
+    .container-025{
         max-width: 20px;
     }
 }

@@ -171,12 +171,12 @@
 }
 @media (max-width: 270px) {
     html {
-        font-size: 4.4px;
+        font-size: 5.2px;
     }
 }
 @media (max-width: 173px) {
     html {
-        font-size: 2.2px;
+        font-size: 4.8px;
     }
 }
 
@@ -189,32 +189,32 @@
 
 @media (max-width: 150px) {
     html {
-        font-size: 2px;
+        font-size: 4.4px;
     }
 }
 @media (max-width: 130px) {
     html {
-        font-size: 1.9px;
+        font-size: 4px;
     }
 }
 @media (max-width: 110px) {
     html {
-        font-size: 1.8px;
+        font-size: 3.6px;
     }
 }
 @media (max-width: 100px) {
     html {
-        font-size: 1.7px;
+        font-size: 3.2px;
     }
 }
 @media (max-width: 90px) {
     html {
-        font-size: 1.6px;
+        font-size: 2.8px;
     }
 }
 @media (max-width: 80px) {
     html {
-        font-size: 1.5px;
+        font-size: 2.4px;
     }
 }
 
@@ -227,17 +227,17 @@
 
 @media (max-width: 70px) {
     html {
-        font-size: 1.4px;
+        font-size: 2px;
     }
 }
 @media (max-width: 63px) {
     html {
-        font-size: 1.3px;
+        font-size: 1.6px;
     }
 }
 @media (max-width: 53px) {
     html {
-        font-size: 1px;
+        font-size: 1.2px;
     }
 }
 @media (max-width: 40px) {
