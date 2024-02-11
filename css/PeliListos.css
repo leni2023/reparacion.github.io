@@ -15,3 +15,13 @@
     bottom: 0;
     right: 0;
 }
+@media (max-width: 470px) {
+    .t1-11-para-youtube{
+        height: 7rem;
+    }
+    .t1-11abpara-youtube{
+        width: 15rem;
+        height: 4rem;
+    }
+
+}
