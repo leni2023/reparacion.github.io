@@ -31,7 +31,8 @@
     display: none;
 }
 .S1seccion-023-22-33-44-55{
-    display: block;
+    /* display: block; */
+    display: none;
 }
 .container023{
     /* background-color: #236cd8; */
